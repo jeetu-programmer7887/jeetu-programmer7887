@@ -81,17 +81,17 @@ I build **high-performance, production-grade web systems** — from pixel-perfec
 
 ---
 
+### 💬 [JSocial](https://jeesocial.netlify.app) · [GitHub](https://github.com/jeetu-programmer7887/jsocial)
+> Full-stack real-time social platform — live messaging, typing indicators, read receipts, online presence, and notifications, built on a Socket.IO architecture designed to survive real cross-domain deployment.
+
+`React` `Redux Toolkit` `Node.js` `Socket.IO` `MongoDB` `Tailwind CSS`
+
+---
+
 ### 🧠 [JPsyche](https://github.com/jeetu-programmer7887/JPsyche)
 > AI-driven mental health support platform powered by Google Gemini and Neon PostgreSQL. Explores the intersection of LLMs and emotional wellbeing.
 
 `Next.js` `TypeScript` `Gemini API` `Neon PostgreSQL` `Prisma`
-
----
-
-### 🌍 [Wanderlust](https://github.com/jeetu-programmer7887/Wanderlust-app)
-> Full-stack travel listings app — my first production MERN project. Features authentication, CRUD operations, and map integration.
-
-`Node.js` `Express` `MongoDB` `EJS` `JavaScript`
 
 ---
 
